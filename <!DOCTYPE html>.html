@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <title>KEVINCITO</title>
+</head>
+<body>
+    <a-scene>
+        <a-box position="-1 2 -3" rotation="0 90 0" color="#4CC3D9"></a-box>
+        <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+        <a-cylinder src="#4" position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+        <a-cylinder src="#3" position="1 3 -3" radius="1.5" height="1.5" color="#FFC65D"></a-cylinder>
+        <a-plane src="#1" position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+        <a-sky color="#ffffff"></a-sky>
+        <a-entity gltf-model="#modelo" position="0 0 -1" scale="0.5"> </a-entity>
+        <a-camera>
+            <a-cursor></a-cursor>
+          </a-camera>
+        
+          <a-box></a-box>
+          <a-assets>
+            <img id="1" src="https://kevincitop.github.io/imagenes/1.png">
+            <img id="3" src="https://kevincitop.github.io/imagenes/3.png">
+            <img id="4" src="https://kevincitop.github.io/imagenes/4.png">
+            <a-asset-item id="modelo" src="https://kevincitop.github.io/imagenes/scene.gltf"> </a-asset-item>
+            
+          </a-assets>
+    </a-scene>
+</body>
+</html>
