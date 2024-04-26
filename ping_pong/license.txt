@@ -1,0 +1,11 @@
+Model Information:
+* title:	PING PONG
+* source:	https://sketchfab.com/3d-models/ping-pong-43b040d1a4dd42ab972a0bea2e51c321
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PING PONG" (https://sketchfab.com/3d-models/ping-pong-43b040d1a4dd42ab972a0bea2e51c321) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
